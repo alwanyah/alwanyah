@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alwanyah
 - 👀 I’m interested in data science
 - 🌱 I’m currently studing computer-science at Humboldt-University
-- 📫 How to reach me: yahyaalwan0401@yahoo.de
+- 📫 How to reach me: alwanyah@outlook.de
 
 <!---
 alwanyah/alwanyah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
