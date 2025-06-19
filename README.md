@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alwanyah
-- 👀 I’m interested in data science
+- 👀 I’m interested in data science/analytics
 - 🌱 I’m currently studing computer-science at Humboldt-University
 - 📫 How to reach me: alwanyah@outlook.de
 
